@@ -1,7 +1,39 @@
 <html>
+<link rel="stylesheet" type="text/css" href="theme.css">
 <head>
 </head>
-<body>
-<p>this is a line of text</p>
+<body class="parallax">
+   <ul>
+       <li>Home</li>
+       <li>About</li>
+       <li>Media</li>
+       <li>Blog</li>
+       <li>Contact</li>
+   </ul>
+<div class="overlay">
+<div class="centeredgroup">
+<h1 class="h1stylewhite">CODE CASUALLY</h1>
+<h2 class="h2style">Build beautiful websites without any code.</h2>
+<button>GET STARTED</button>
+</div>
+</div>
+<div class="blankgroup150h">
+<h1 class="h1stylewhitesmall">
+<br/>
+<br/>WEB DEVELOPMENT SIMPLIFIED.
+<br/>
+<br/>
+<br/>
+</hi>
+</div>
+<section class="blankgroup500h">
+<div class="flexcontainer">
+<div class="displaygroup"></div>
+<div class="displaygroup"></div>
+<div class="displaygroup"></div>
+<div class="displaygroup"></div>
+<div class="displaygroup"></div>
+</div>
+</section>
 </body>
 </html>
